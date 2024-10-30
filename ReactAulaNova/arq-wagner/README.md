@@ -1,8 +1,9 @@
-# React + Vite
+# React + Vite - LadingPage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Feito uma LandingPage de Arquitetos usado: React + Vite, Web3forms, ContextApi  e LocalStorage 
 
-Currently, two official plugins are available:
+- Web3forms: Para quem entrar com contato ir um email com formulário
+- ContextApi: Para mudar a linguagem da pagina
+- LocalStorage: Para ficar salvo o likes que dão no projetos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Deploy: https://arq-wagner.vercel.app/
